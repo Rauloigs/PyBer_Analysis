@@ -18,8 +18,10 @@ After been done with the first data V Isualize needed which was the following...
 - The number of rides for each city type.
 ![Fig2](https://user-images.githubusercontent.com/84519822/151427538-d4882f21-519b-4da7-81ab-1c183900a6be.png)
 
+
 - The fares for each city type.
 ![Fig3](https://user-images.githubusercontent.com/84519822/151427553-57be66e3-fa03-4917-8029-13a48acc7e04.png)
+
 
 - The number of drivers for each city type.
 ![Fig4](https://user-images.githubusercontent.com/84519822/151427579-b02955db-0bf6-457a-b626-c424b4fa8f49.png)
@@ -29,8 +31,10 @@ After been done with the first data V Isualize needed which was the following...
 - The percent of total fares.
 ![Fig5](https://user-images.githubusercontent.com/84519822/151427241-4dba3439-faf5-45da-b878-1d9cbdf49bd5.png)
 
+
 - The percent of total rides.
 ![Fig6](https://user-images.githubusercontent.com/84519822/151427280-7d6cb8c2-54e6-42ca-b032-cefbf2e083c6.png)
+
 
 - The percent of total drivers.
 ![Fig7](https://user-images.githubusercontent.com/84519822/151427318-0553b230-5cd7-47f3-be30-4c94df9e48df.png)
